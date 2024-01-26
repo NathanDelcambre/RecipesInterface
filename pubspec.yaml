@@ -36,6 +36,18 @@ flutter:
     - assets/placeholder.png
     - assets/ustensiles.png
     - assets/couverts.png
+    - assets/entrees.png
+    - assets/plats_chauds.png
+    - assets/plats_froids.png
+    - assets/plats_du_monde.png
+    - assets/fast_food.png
+    - assets/salades.png
+    - assets/plats_fruits_de_mer.png
+    - assets/viandes.png
+    - assets/desserts.png
+    - assets/autres.png
+    - assets/soupes.png
+    - assets/vegetarien.png
 
   fonts:
     - family: Exo2

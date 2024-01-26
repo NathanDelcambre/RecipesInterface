@@ -14,4 +14,20 @@ class Categories {
     'Végétalien',
     'Autres'
   ];
+
+  static const List<Map<String, String>> categoryAssets = [
+    {'Plats chauds': 'assets/plats_chauds.png'},
+    {'Plats froids': 'assets/plats_froids.png'},
+    {'Entrées': 'assets/entrees.png'},
+    {'Salades': 'assets/salades.png'},
+    {'Soupes': 'assets/soupes.png'},
+    {'Viandes': 'assets/viandes.png'},
+    {'Plats de fruits de mer': 'assets/plats_fruits_de_mer.png'},
+    {'Plats du monde': 'assets/plats_du_monde.png'},
+    {'Fast-Food': 'assets/fast_food.png'},
+    {'Desserts': 'assets/desserts.png'},
+    {'Végétarien': 'assets/vegetarien.png'},
+    {'Végétalien': 'assets/vegetarien.png'},
+    {'Autres': 'assets/autres.png'},
+  ];
 }
